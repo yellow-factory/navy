@@ -1,5 +1,6 @@
 Type typeOf<T>() => T;
 
+typedef ActionOf0 = void Function(); //Also defined in dart.ui as VoidCallback
 typedef ActionOf1<T> = void Function(T t);
 typedef ActionOf2<T1, T2> = void Function(T1 t1, T2 t2);
 typedef ActionOf3<T1, T2, T3> = void Function(T1 t1, T2 t2, T3 t3);
