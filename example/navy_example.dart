@@ -1,4 +1,3 @@
-import 'package:navy/navy.dart';
 
 void main() {
   // var awesome = Awesome();
